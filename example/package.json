@@ -5,11 +5,16 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "classnames": "^2.2.6",
+    "graphiti-react": "link:..",
+    "loaders.css": "^0.1.2",
+    "node-sass": "^4.13.1",
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
+    "react-loaders": "^3.0.1",
     "react-scripts": "^1.1.4",
-    "graphiti-react": "link:.."
+    "uuid": "^3.4.0"
   },
   "scripts": {
     "start": "react-scripts start",

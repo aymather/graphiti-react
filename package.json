@@ -1,6 +1,6 @@
 {
   "name": "graphiti-react",
-  "version": "1.0.0",
+  "version": "1.0.01",
   "description": "",
   "author": "aymather",
   "license": "MIT",
@@ -57,5 +57,9 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "uuid": "^3.4.0"
+  }
 }
